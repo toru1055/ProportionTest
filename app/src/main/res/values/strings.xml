@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A/B Robot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_abtest_input">確率の差の検定（入力）</string>
+    <string name="title_activity_abtest_result">確率の差の検定（結果）</string>
+    <string name="IndependenceTestMode">確率の差の検定</string>
+    <string name="SampleCountA">試行回数(A)</string>
+    <string name="SuccessCountA">成功回数(A)</string>
+    <string name="SampleCountB">試行回数(B)</string>
+    <string name="SuccessCountB">成功回数(B)</string>
+    <string name="reset">リセット</string>
+    <string name="execTest">検定実行</string>
+    <string name="SuccessRateA">　成功確率(A):</string>
+    <string name="ConfidenceIntervalA">　信頼区間(A):</string>
+    <string name="SuccessRateB">　成功確率(B):</string>
+    <string name="ConfidenceIntervalB">　信頼区間(B):</string>
+    <string name="ParameterDescription" formatted="false">（有意水準:5%, 信頼水準:95%.）</string>
+    <string name="title_top_activity">ABテストの有意差検定</string>
+</resources>
